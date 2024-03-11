@@ -1,4 +1,4 @@
-# Simple Chart.js
+# Simple-Charts.js
 
 `simple-charts.js` is a small library for creating charts in an object-oriented manner.
 
